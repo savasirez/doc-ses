@@ -63,7 +63,7 @@
    <listitem>
     <para>
      Shared storage to host the disk image(s) of the &adm; virtual
-     machine. The shared storage needs to be accessible form both servers. It
+     machine. The shared storage needs to be accessible from both servers. It
      can be for example an NFS export, a Samba share, or &iscsi; target.
     </para>
    </listitem>
